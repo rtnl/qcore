@@ -1,0 +1,15 @@
+body,html {
+	background-color: #000000;
+	color: #FFFFFF;
+	font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", monospace;
+}
+#top {
+	text-align: center;
+	font-size: 175px;
+	overflow: hidden;
+	margin-top: -94px;
+	margin-bottom: 5px;
+	border-bottom-color: #FFFFFF;
+	border-bottom-style: solid;
+	
+}
